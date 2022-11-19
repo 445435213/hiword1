@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cfa26d0-fdca-409e-8e3f-c6282171721c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HiTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668406966082</updated>
       <workItem from="1668406970075" duration="5372000" />
-      <workItem from="1668823028891" duration="7629000" />
+      <workItem from="1668823028891" duration="7685000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1668407198969</created>
@@ -133,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668866002089</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="第7次提交">
+      <created>1668866087180</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668866087180</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +151,8 @@
     <MESSAGE value="第2次提交" />
     <MESSAGE value="第3次提交" />
     <MESSAGE value="第6次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第6次提交" />
+    <MESSAGE value="第7次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第7次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="38" key="#Notifications" timestamp="1668408763839">
@@ -155,10 +163,10 @@
       <screen x="0" y="0" width="1280" height="752" />
     </state>
     <state x="233" y="38" key="#Project_Structure/0.0.1280.752@0.0.1280.752" timestamp="1668406975966" />
-    <state x="260" y="0" width="759" height="749" key="CommitChangelistDialog2" timestamp="1668866000527">
+    <state x="260" y="0" width="759" height="749" key="CommitChangelistDialog2" timestamp="1668866085732">
       <screen x="0" y="0" width="1280" height="752" />
     </state>
-    <state x="260" y="0" width="759" height="749" key="CommitChangelistDialog2/0.0.1280.752@0.0.1280.752" timestamp="1668866000527" />
+    <state x="260" y="0" width="759" height="749" key="CommitChangelistDialog2/0.0.1280.752@0.0.1280.752" timestamp="1668866085732" />
     <state x="123" y="64" key="DiffContextDialog" timestamp="1668409087819">
       <screen x="0" y="0" width="1280" height="752" />
     </state>
