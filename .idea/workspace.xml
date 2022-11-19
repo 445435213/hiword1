@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cfa26d0-fdca-409e-8e3f-c6282171721c" name="Default Changelist" comment="第一次提交">
+    <list default="true" id="0cfa26d0-fdca-409e-8e3f-c6282171721c" name="Default Changelist" comment="第3次提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HiTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -43,6 +43,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -66,7 +67,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668406966082</updated>
-      <workItem from="1668406970075" duration="1360000" />
+      <workItem from="1668406970075" duration="5372000" />
+      <workItem from="1668823028891" duration="7584000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1668407198969</created>
@@ -110,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668408181712</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="第2次提交">
+      <created>1668408352099</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668408352099</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第3次提交">
+      <created>1668409101903</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668409101903</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,24 +134,58 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="第2次提交" />
+    <MESSAGE value="第3次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第3次提交" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="38" key="#Notifications" timestamp="1668408763839">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="233" y="38" key="#Notifications/0.0.1280.752@0.0.1280.752" timestamp="1668408763839" />
     <state x="233" y="38" key="#Project_Structure" timestamp="1668406975966">
       <screen x="0" y="0" width="1280" height="752" />
     </state>
     <state x="233" y="38" key="#Project_Structure/0.0.1280.752@0.0.1280.752" timestamp="1668406975966" />
-    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1668408268813">
+    <state x="260" y="0" width="759" height="749" key="CommitChangelistDialog2" timestamp="1668862989048">
       <screen x="0" y="0" width="1280" height="752" />
     </state>
-    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1280.752@0.0.1280.752" timestamp="1668408268813" />
-    <state x="421" y="121" key="FileChooserDialogImpl" timestamp="1668407026241">
+    <state x="260" y="0" width="759" height="749" key="CommitChangelistDialog2/0.0.1280.752@0.0.1280.752" timestamp="1668862989048" />
+    <state x="123" y="64" key="DiffContextDialog" timestamp="1668409087819">
       <screen x="0" y="0" width="1280" height="752" />
     </state>
-    <state x="421" y="121" key="FileChooserDialogImpl/0.0.1280.752@0.0.1280.752" timestamp="1668407026241" />
-    <state x="233" y="101" key="Vcs.Push.Dialog.v2" timestamp="1668408304092">
+    <state x="123" y="64" key="DiffContextDialog/0.0.1280.752@0.0.1280.752" timestamp="1668409087819" />
+    <state x="421" y="121" key="FileChooserDialogImpl" timestamp="1668408922593">
       <screen x="0" y="0" width="1280" height="752" />
     </state>
-    <state x="233" y="101" key="Vcs.Push.Dialog.v2/0.0.1280.752@0.0.1280.752" timestamp="1668408304092" />
+    <state x="421" y="121" key="FileChooserDialogImpl/0.0.1280.752@0.0.1280.752" timestamp="1668408922593" />
+    <state x="287" y="80" key="NewModule_or_Project.wizard" timestamp="1668411070410">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="287" y="80" key="NewModule_or_Project.wizard/0.0.1280.752@0.0.1280.752" timestamp="1668411070410" />
+    <state x="144" y="22" key="SettingsEditor" timestamp="1668865225572">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="144" y="22" key="SettingsEditor/0.0.1280.752@0.0.1280.752" timestamp="1668865225572" />
+    <state x="233" y="101" key="Vcs.Push.Dialog.v2" timestamp="1668410273117">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="233" y="101" key="Vcs.Push.Dialog.v2/0.0.1280.752@0.0.1280.752" timestamp="1668410273117" />
+    <state x="336" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1668823040788">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="336" y="205" key="com.intellij.ide.util.TipDialog/0.0.1280.752@0.0.1280.752" timestamp="1668823040788" />
+    <state x="438" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1668848821354">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="438" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.752@0.0.1280.752" timestamp="1668848821354" />
+    <state x="352" y="179" key="git4idea.merge.GitPullDialog" timestamp="1668823386538">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="352" y="179" key="git4idea.merge.GitPullDialog/0.0.1280.752@0.0.1280.752" timestamp="1668823386538" />
+    <state x="6" y="0" key="new project wizard" timestamp="1668823307841">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="6" y="0" key="new project wizard/0.0.1280.752@0.0.1280.752" timestamp="1668823307841" />
   </component>
 </project>
